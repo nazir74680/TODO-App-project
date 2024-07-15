@@ -1,5 +1,11 @@
 # TODO-App-project
-THis ToDo App provide a online todo list for remembring you work with time and date
-and it aslo be updated and deletd your to do you look at the code which uploaded
-Thank you
-Nazir khanushiya.
+Overview
+This is a simple Todo application built using Flask and SQLAlchemy. The application allows users to create, read, update, and delete todo items.
+Features:-
+Add new todo items.
+View all todo items.
+Update existing todo items.
+Delete todo items.
+
+
+Nazir khanushiya
